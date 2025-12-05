@@ -13,3 +13,7 @@ The second task focused on identifying possible salary inequality across roles a
 Purpose of This Repository
 
 This repository contains my completed work from the Deloitte Data Analytics virtual simulation. It is intended to showcase my ability to analyse data, build dashboards and interpret results for business decision-making.
+
+Certificate of Completion
+
+A certificate of completion for the Deloitte Data Analytics virtual simulation is included in the Certificate folder.
